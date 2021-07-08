@@ -1,5 +1,5 @@
 # kojo-thello
-Othello/Reversi game that runs in Kojo.
+Othello/Reversi game that runs in Kojo. See: https://www.kogics.net/kojo
 
 Just open the file menu.kojo in Kojo and run.
 
